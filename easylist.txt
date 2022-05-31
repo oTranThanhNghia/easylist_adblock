@@ -61230,3 +61230,4 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||rule34hentai.net^$generichide
 @@||urlgalleries.net^$generichide
 ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
+@@||kenh14.vn^$generichide
