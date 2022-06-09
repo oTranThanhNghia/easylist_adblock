@@ -1,1 +1,18 @@
-cinematoday.jp##[id^="google_ads_iframe_/2825920/mobile/sp_header_0"]
+[Adblock Plus 2.0]
+! Version: 202205310902
+! Title: EasyList
+! Last modified: 31 May 2022 09:02 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://easylist.to/
+! Licence: https://easylist.to/pages/licence.html
+! !
+! Please report any unblocked adverts or problems
+! in the forums (https://forums.lanik.us/)
+! or via e-mail (easylist@protonmail.com).
+! GitHub issues: https://github.com/easylist/easylist/issues
+! GitHub pull requests: https://github.com/easylist/easylist/pulls
+! 
+! -----------------------General advert blocking filters-----------------------!
+! *** easylist:easylist/easylist_general_block.txt ***
+cinematoday.jp##iframe[id^="google_ads_iframe_/2825920/mobile/sp_header_0"]
+
