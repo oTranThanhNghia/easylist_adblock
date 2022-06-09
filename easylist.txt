@@ -55552,7 +55552,6 @@ spiegel.de##a[href^="http://paid.outbrain.com/network/redir?"]
 spiegel.de##a[href^="https://paid.outbrain.com/network/redir?"]
 spiegel.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 spiegel.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"]
-spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepage_5__container__)
 ||2mdn.net^$domain=spiegel.de
 ||360yield.com^$domain=spiegel.de
 ||adalliance.io^$domain=spiegel.de
@@ -61230,5 +61229,4 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||rule34hentai.net^$generichide
 @@||urlgalleries.net^$generichide
 ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-@@||cinematoday.jp/movie/?type=bojp_weekend^$document
 
